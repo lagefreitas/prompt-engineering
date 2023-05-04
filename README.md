@@ -9,3 +9,4 @@
 - [ ] Job recruiting process: JD creation (mimic or topic->create), summary, extract, match JD, write refusal and acceptance letters
 - [ ] Management: Sentment analyzing of chat message (in a slack group to follow-up the morale or any trouble)
 - [ ] Proofreading: highlighting suggestions, slang removal, etc.
+- [ ] Education: create a quiz based on a subject, book, or text. Tell me the right answer, correct the exercises, etc.
