@@ -10,3 +10,4 @@
 - [ ] Multilanguage poem sentiment analysys
 - [ ] Proofreading
 - [ ] Education
+- [ ] PR
