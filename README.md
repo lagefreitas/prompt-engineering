@@ -1,6 +1,7 @@
 # Prompt Engineering
 
 - [x] Law: extracting info, chatbot, creation
+- [x] PR
 - [ ] Team Leading & Management
 - [ ] Job recruiting
 - [ ] Language translation
@@ -10,4 +11,4 @@
 - [ ] Multilanguage poem sentiment analysys
 - [ ] Proofreading
 - [ ] Education
-- [ ] PR
+
