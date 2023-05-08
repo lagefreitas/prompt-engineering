@@ -1,8 +1,9 @@
 # Prompt Engineering
 
-- [x] Law: extracting info, chatbot, creation
+- [x] Law: extracting info, chatbot, creation (Brazilian Portuguese)
+- [ ] Law: extracting info, chatbot, creation (English/French) 
 - [x] PR
-- [ ] Team Leading & Management
+- [x] Team Leading & Management
 - [ ] Job recruiting
 - [ ] Language translation
 - [ ] Scientific paper review
@@ -11,4 +12,3 @@
 - [ ] Multilanguage poem sentiment analysys
 - [ ] Proofreading
 - [ ] Education
-
