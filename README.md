@@ -1,4 +1,6 @@
-# Prompt Engineering Tutorials
+# Prompt Engineering: Hands-on Tutorials with ChatGPT 
+
+<!--center><img src="/repo-banner.png" alt="MarineGEO circle logo" style="height: 200px"/></center>-->
 
 ### About
 
