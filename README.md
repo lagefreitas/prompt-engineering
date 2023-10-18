@@ -18,16 +18,16 @@ Happy learning!
 
 ### Videos + Jupyter Notebooks
 
-- [x] Leveraging ChatGPT in Crisis Communication - Public Relations (PR) [Jypyter Notebook](https://github.com/lagefreitas/prompt-engineering/blob/14247cbf10436633fc0601fd4cfa76f3b6a4e769/PR-crisis-communication.ipynb), [Youtube Tutorial](https://youtu.be/JUL3SvS5Gn0)
-  - [x] (Brazilian Portuguese) _A Inteligência Artificial como Suporte ao Gerenciamento de Crises - Relações Píblicas (RP)_ [Jypyter Notebook](https://github.com/lagefreitas/prompt-engineering/blob/0880ba5d14ac4976b14f886ccf0a3d17b907a8af/PR-crisis-communication-portuguese.ipynb)
-- [x] Team Leading & Management: Addressing Soft Skills Issues [Jypyter Notebook](https://github.com/lagefreitas/prompt-engineering/blob/14247cbf10436633fc0601fd4cfa76f3b6a4e769/prompt-engineering-team_mgmt-addressing_soft_skills_issues.ipynb), [Youtube Tutorial](https://youtu.be/_30ZbI_TYxI)
-- [x] The Education Dilemma: To Chat or Not To Chat? [Jypyter Notebook](https://github.com/lagefreitas/prompt-engineering/blob/14247cbf10436633fc0601fd4cfa76f3b6a4e769/prompt-engineering-education.ipynb), [Youtube Tutorial](https://youtu.be/psfVcL14LSc)
-- [x] Education: Creating a ChatGPT Homework (Plot Twist!) [Jypyter Notebook](https://github.com/lagefreitas/prompt-engineering/blob/4c4447f1026c5ddeef998cce6c91fde59c6b12f7/prompt-engineering-education-homework.ipynb), [Youtube Tutorial TODO](https://www.youtube.com/@lagefreitas/playlists)
+- [x] Leveraging ChatGPT in Crisis Communication - Public Relations (PR) [Jypyter Notebook](https://github.com/lagefreitas/prompt-engineering/blob/main/PR-crisis-communication.ipynb), [Youtube Tutorial](https://youtu.be/JUL3SvS5Gn0)
+  - [x] (Brazilian Portuguese) _A Inteligência Artificial como Suporte ao Gerenciamento de Crises - Relações Píblicas (RP)_ [Jypyter Notebook](https://github.com/lagefreitas/prompt-engineering/blob/main/PR-crisis-communication-portuguese.ipynb)
+- [x] Team Leading & Management: Addressing Soft Skills Issues [Jypyter Notebook](https://github.com/lagefreitas/prompt-engineering/blob/main/prompt-engineering-team_mgmt-addressing_soft_skills_issues.ipynb), [Youtube Tutorial](https://youtu.be/_30ZbI_TYxI)
+- [x] The Education Dilemma: To Chat or Not To Chat? [Jypyter Notebook](https://github.com/lagefreitas/prompt-engineering/blob/main/prompt-engineering-education.ipynb), [Youtube Tutorial](https://youtu.be/psfVcL14LSc)
+- [x] Education: Creating a ChatGPT Homework (Plot Twist!) [Jypyter Notebook](https://github.com/lagefreitas/prompt-engineering/blob/main/prompt-engineering-education-homework.ipynb), [Youtube Tutorial TODO](https://www.youtube.com/@lagefreitas/playlists)
 
 - [x] (Brazilian Portuguese) _Engenharia de Prompt - ChatGPT aplicado ao Direito_
-  - _Engenharia de Prompt no Direito - Parte 1: Extração de informações de documentos jurídicos_ [Jypyter Notebook](https://github.com/lagefreitas/prompt-engineering/blob/14247cbf10436633fc0601fd4cfa76f3b6a4e769/legal-prompt-engineering-portuguese-PT-BR.ipynb), [Youtube Tutorial](https://youtu.be/E_cTRolYxaI)
-  - _Engenharia de Prompt no Direito - Parte 2: Chatbot para Defensorias Públicas_ [Jypyter Notebook](https://github.com/lagefreitas/prompt-engineering/blob/14247cbf10436633fc0601fd4cfa76f3b6a4e769/legal-prompt-engineering-portuguese-PT-BR.ipynb), [Youtube Tutorial](https://youtu.be/VW24JzOa_Ik)
-  - _Engenharia de Prompt no Direito - Parte 3: Elaboração de Petição Inicial_ [Jypyter Notebook](https://github.com/lagefreitas/prompt-engineering/blob/14247cbf10436633fc0601fd4cfa76f3b6a4e769/legal-prompt-engineering-portuguese-PT-BR.ipynb), [Youtube Tutorial](https://youtu.be/Bnrv_zYtKMQ)
+  - _Engenharia de Prompt no Direito - Parte 1: Extração de informações de documentos jurídicos_ [Jypyter Notebook](https://github.com/lagefreitas/prompt-engineering/blob/main/legal-prompt-engineering-portuguese-PT-BR.ipynb), [Youtube Tutorial](https://youtu.be/E_cTRolYxaI)
+  - _Engenharia de Prompt no Direito - Parte 2: Chatbot para Defensorias Públicas_ [Jypyter Notebook](https://github.com/lagefreitas/prompt-engineering/blob/main/legal-prompt-engineering-portuguese-PT-BR.ipynb), [Youtube Tutorial](https://youtu.be/VW24JzOa_Ik)
+  - _Engenharia de Prompt no Direito - Parte 3: Elaboração de Petição Inicial_ [Jypyter Notebook](https://github.com/lagefreitas/prompt-engineering/blob/main/legal-prompt-engineering-portuguese-PT-BR.ipynb), [Youtube Tutorial](https://youtu.be/Bnrv_zYtKMQ)
 - [ ] Law: extracting info, chatbot, creation (English/French) 
 - [ ] Job recruiting
 - [ ] Language translation
